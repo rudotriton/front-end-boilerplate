@@ -10,4 +10,4 @@ cache:
     - "$HOME/.npm"
 
 script:
-  - npx eslint ./src ./server
+  - npx eslint ./src
