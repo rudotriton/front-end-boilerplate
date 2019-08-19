@@ -28,7 +28,7 @@ const Header = styled.header`
 `;
 
 const A = styled.a`
-  color: ${props => props.theme.linkColor};
+  color: ${(props) => props.theme.linkColor};
 `;
 
 const Logo = styled.img`
